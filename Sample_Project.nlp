@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Sample_Project
+project.config.storage=ZIP
+project.id=214d2ef8-c9e1-4ff4-83a5-a0e989eb24bd
+team.server.enabled=true
+product.original.name=
+product.name=NeoLoad
+product.original.version=
+project.config.path=config.zip
+project.version=8.10
+project.original.version=4.2
+project.is-open-test-settings-after-upload=true
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+team.server.project=/sachinpaarit/Projects.git
